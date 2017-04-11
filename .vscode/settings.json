@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "d:/dev/django/mysite/env/scripts/python.exe"
+    "python.pythonPath": "d:/dev/django/mysite/env/scripts/python.exe",
+    "python.formatting.provider": "yapf"
 }
