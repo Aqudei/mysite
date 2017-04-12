@@ -2,6 +2,10 @@ ul {
     list-style: none;
 }
 
+li a {
+    
+}
+
 a:visited {
     color: black
 }
